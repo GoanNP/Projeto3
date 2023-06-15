@@ -16,19 +16,3 @@ img {
     width: 40em;
     max-width: 90%;
 }
-
-.relative {
-    position: relative;
-    max-width: 400px;
-    height: 200px;
-    background-color: lightblue;
-  }
-
-  .absolute {
-    position: absolute;
-    top: 80px;
-    right: 10px;
-    width: 200px;
-    height: 100px;
-    background-color: steelblue;
-  }
